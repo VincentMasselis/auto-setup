@@ -2,4 +2,4 @@
 
 brew install --cask logi-options-plus logitech-options mos spotify vlc slack firefox invisiblix
 
-open mos-config.png
+open https://raw.githubusercontent.com/VincentMasselis/auto-setup/main/mos-config.png
